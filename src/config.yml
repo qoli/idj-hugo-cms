@@ -3,7 +3,7 @@ backend:
   repo: qoli/idj-hugo-cms
   branch: master
 
-site_url: https://example.com
+site_url: https://cocky-hopper-4278a6.netlify.app
 
 publish_mode: editorial_workflow
 media_folder: assets/uploads
