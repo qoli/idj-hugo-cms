@@ -1,7 +1,7 @@
 ---
 title: 嘉宾演出订单合同
 date: 2021-02-14T07:55:46.121Z
-description: test
+description: none
 ---
 
 双方合同说明:此合同由演出方（艺人）及预约方（活动单位）使用 IDJGLOBAL APP 平台在线签订、共同遵守
