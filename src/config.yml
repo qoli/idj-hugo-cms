@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: git-gateway
+  repo: qoli/idj-hugo-cms
+  branch: master
 
 site_url: https://example.com
 
